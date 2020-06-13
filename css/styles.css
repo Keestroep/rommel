@@ -8,4 +8,5 @@ h2 {font-weight: normal;}.text-element > .silex-element-content {font-family: 'R
 .button.text-element > .silex-element-content {color: #ffffff; text-align: center;}.button a {}.button [data-silex-href] {}
 .captions.text-element > .silex-element-content {text-align: center;}
 @media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.hamburger-menu.text-element > .silex-element-content {font-size: 1.5em;}.hamburger-menu ul li {list-style-type: none; line-height: 2; text-indent: 10px;}.hamburger-menu .page-link-active {color: #0099FF;}}
-.style-p2 p {font-variant: small-caps; color: #cf3030; text-align: left;}body.silex-runtime {opacity: 1;}
+.style-p2 p {font-variant: small-caps; color: #cf3030; text-align: left;}
+body.silex-runtime {opacity: 1;}
